@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /
+Sitemap: https://www.iforworlds.com/rss/google/sitemap.xml
